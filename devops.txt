@@ -1,3 +1,1 @@
 hello devops application hello
-
-This is the updated the new file and added x+y
